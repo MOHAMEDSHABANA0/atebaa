@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657841852419",
+    "project_id": "atebaa-cf490",
+    "storage_bucket": "atebaa-cf490.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657841852419:android:92a388bf6e8a1597c4fe36",
+        "android_client_info": {
+          "package_name": "com.example.atebaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuShidJNdFpJM0-9Wn78YRfqx29HMa9v0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
